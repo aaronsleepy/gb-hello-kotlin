@@ -7,7 +7,7 @@
 - array
 
 ## function
-- functon
+- function
 - package & import
 - conditional
 - loop
